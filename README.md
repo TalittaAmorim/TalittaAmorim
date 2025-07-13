@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!<br><br>👩‍💻 Programadora em desenvolvimento web<br><br>🎓 Estudante de Informática para Internet no SENAI CIMATEC<br><br>🚀 Entusiasmada com o poder transformador da tecnologia</p>
+<p align="left">Hello World!!<br><br>👩‍💻 Desenvolvedora de Software<br><br>🎓 Estudante de Informática para Internet no SENAI CIMATEC<br><br>🚀 Entusiasmada com o poder transformador da tecnologia</p>
 
 ###
 
